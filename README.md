@@ -1,6 +1,8 @@
 # SQLite
 This is a small and simple wrapper for sqlite in node / electron
 
+looking for a mysql wrapper see: https://github.com/Wuild/mariadb
+
 ## TODO
 * Write a better README
 
