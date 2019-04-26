@@ -1,0 +1,30 @@
+{
+  "name": "@wuild/sqlite",
+  "version": "1.0.0",
+  "description": "A simple wrapper for sqlite3 in node / electron",
+  "main": "sqlite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wuild",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "sprintf-js": "^1.1.2",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuild/sqlite.git"
+  },
+  "keywords": [
+    "sqlite",
+    "node",
+    "electron"
+  ],
+  "bugs": {
+    "url": "https://github.com/Wuild/sqlite/issues"
+  },
+  "homepage": "https://github.com/Wuild/sqlite#readme"
+}
