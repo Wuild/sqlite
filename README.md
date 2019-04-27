@@ -3,6 +3,8 @@ This is a small and simple wrapper for sqlite in node / electron
 
 looking for a mysql wrapper see: https://github.com/Wuild/mariadb
 
+[![npm version](https://badge.fury.io/js/%40wuild%2Fsqlite.svg)](https://badge.fury.io/js/%40wuild%2Fsqlite)
+
 ## TODO
 * Write a better README
 
